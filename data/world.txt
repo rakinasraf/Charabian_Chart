@@ -1,0 +1,192 @@
+#uk|United Kingdom|🇬🇧|110000|190000|5 yrs (rules shifting, check Home Office)|4200000|3000000|75000|85000
+Glasgow*0.9:University of Glasgow,University of Strathclyde
+London*1.6:UCL^1.15,Imperial College London^1.25,+Regent's University London
+Manchester:University of Manchester,Manchester Metropolitan University
+Edinburgh*1.1:University of Edinburgh^1.1,Heriot-Watt University
+#us|United States|🇺🇸|160000|65000|8-12+ yrs, no direct path (OPT, H-1B, green card)|3400000|5500000|80000|100000
+Boston*1.4:UMass Boston,+Northeastern University,+Boston University^1.1
+Austin:UT Austin^1.1,+St. Edward's University
+New York*1.6:CUNY City College,+New York University^1.2,+Columbia University^1.3
+Pittsburgh*0.9:University of Pittsburgh,+Carnegie Mellon University^1.2
+#ca|Canada|🇨🇦|150000|22000|3-5 yrs (study, PGWP, Express Entry)|3200000|2800000|65000|75000
+Toronto*1.2:University of Toronto^1.4,York University
+Montreal*0.8:McGill University^1.1,Concordia University
+Vancouver*1.2:University of British Columbia^1.2,Simon Fraser University
+Calgary*0.9:University of Calgary
+#au|Australia|🇦🇺|130000|160000|4-6 yrs (Graduate visa, skilled migration)|4100000|2500000|75000|95000
+Melbourne:University of Melbourne^1.1,Monash University,+Torrens University
+Sydney*1.15:UNSW Sydney,University of Sydney^1.1
+Brisbane*0.9:University of Queensland,QUT
+Adelaide*0.85:University of Adelaide
+#nz|New Zealand|🇳🇿|140000|32000|3-5 yrs|3300000|1900000|68000|80000
+Auckland*1.1:University of Auckland,AUT
+Wellington:Victoria University of Wellington
+Christchurch*0.9:University of Canterbury
+#ie|Ireland|🇮🇪|120000|54000|5 yrs (Stamp 2 to long-term residence)|3000000|1900000|70000|90000
+Dublin*1.2:Trinity College Dublin^1.1,University College Dublin,+Dublin Business School
+Cork*0.85:University College Cork
+Galway*0.85:University of Galway
+#de|Germany|🇩🇪|100000|10000|2-5 yrs (Blue Card or skilled work)|40000|1500000|55000|75000
+Munich*1.3:TU Munich,LMU Munich,+Munich Business School
+Berlin:TU Berlin,Humboldt University,+IU International University
+Aachen*0.8:RWTH Aachen
+Dresden*0.75:TU Dresden
+#fr|France|🇫🇷|105000|12000|5 yrs|400000|1700000|55000|75000
+Paris*1.4:Sorbonne University,Université Paris-Saclay,+ESSEC Business School^2
+Lyon*0.9:Université Claude Bernard Lyon 1,+EM Lyon^1.8
+Toulouse*0.85:Université Toulouse III
+#nl|Netherlands|🇳🇱|105000|14000|5 yrs|2800000|2800000|62000|100000
+Amsterdam*1.3:University of Amsterdam,VU Amsterdam
+Delft*0.9:TU Delft
+Groningen*0.8:University of Groningen
+#se|Sweden|🇸🇪|105000|18000|4-5 yrs|1700000|1700000|58000|70000
+Stockholm*1.2:KTH Royal Institute of Technology,Stockholm University
+Gothenburg*0.9:Chalmers University of Technology
+Lund*0.9:Lund University
+#no|Norway|🇳🇴|110000|72000|3-5 yrs|30000|1500000|80000|90000
+Oslo*1.2:University of Oslo
+Trondheim*0.85:NTNU
+Bergen*0.9:University of Bergen
+#dk|Denmark|🇩🇰|110000|34000|6-8 yrs|2400000|1800000|75000|85000
+Copenhagen*1.2:University of Copenhagen,DTU,Copenhagen Business School
+Aarhus*0.85:Aarhus University
+Aalborg*0.8:Aalborg University
+#fi|Finland|🇫🇮|105000|46000|4-5 yrs|1500000|1500000|55000|65000
+Helsinki*1.1:University of Helsinki,Aalto University
+Tampere*0.85:Tampere University
+Oulu*0.8:University of Oulu
+#it|Italy|🇮🇹|105000|7000|5 yrs|400000|1700000|52000|60000
+Milan*1.3:Politecnico di Milano,+Bocconi University^1.2
+Rome*1.1:Sapienza University of Rome
+Bologna*0.95:University of Bologna
+Turin*0.85:Politecnico di Torino
+#es|Spain|🇪🇸|105000|11000|5 yrs|500000|1300000|50000|55000
+Barcelona*1.2:Universitat Politècnica de Catalunya,Universitat de Barcelona
+Madrid*1.2:Universidad Complutense de Madrid,+IE University^1.6
+Valencia*0.8:Universitat Politècnica de València
+#pt|Portugal|🇵🇹|105000|12000|5 yrs|600000|1300000|48000|55000
+Lisbon*1.1:University of Lisbon,NOVA University Lisbon
+Porto*0.9:University of Porto
+Coimbra*0.8:University of Coimbra
+#at|Austria|🇦🇹|110000|20000|5 yrs|250000|1500000|58000|70000
+Vienna*1.1:TU Wien,University of Vienna
+Graz*0.85:TU Graz
+Linz*0.85:Johannes Kepler University Linz
+#ch|Switzerland|🇨🇭|115000|12000|10 yrs (5 for some nationalities)|400000|3500000|120000|140000
+Zurich*1.1:ETH Zurich^1.3,University of Zurich
+Lausanne:EPFL^1.3,University of Lausanne
+Geneva*1.1:University of Geneva
+#be|Belgium|🇧🇪|105000|23000|5 yrs|1000000|1800000|60000|70000
+Brussels*1.1:Université libre de Bruxelles,Vrije Universiteit Brussel
+Leuven:KU Leuven^1.2
+Ghent*0.9:Ghent University
+#pl|Poland|🇵🇱|105000|11000|5 yrs|600000|700000|38000|40000
+Warsaw*1.1:Warsaw University of Technology,University of Warsaw
+Krakow*0.9:AGH University,Jagiellonian University
+Wroclaw*0.85:Wroclaw University of Science and Technology
+#cz|Czech Republic|🇨🇿|105000|13000|5 yrs|450000|700000|38000|45000
+Prague*1.2:Charles University,Czech Technical University
+Brno*0.85:Brno University of Technology,Masaryk University
+#hu|Hungary|🇭🇺|105000|8000|3-5 yrs|1100000|1100000|33000|38000
+Budapest:Budapest University of Technology and Economics,Eotvos Lorand University
+Debrecen*0.7:University of Debrecen
+Szeged*0.7:University of Szeged
+#ee|Estonia|🇪🇪|110000|11000|5 yrs|800000|1000000|42000|45000
+Tallinn:TalTech,+Estonian Business School
+Tartu*0.9:University of Tartu
+#lt|Lithuania|🇱🇹|110000|8000|5 yrs|700000|900000|38000|38000
+Vilnius:Vilnius University,Vilnius Tech
+Kaunas*0.9:Kaunas University of Technology
+#lv|Latvia|🇱🇻|110000|8000|5 yrs|700000|900000|36000|36000
+Riga:Riga Technical University,University of Latvia,+RISEBA University
+#ro|Romania|🇷🇴|105000|9000|5 yrs|450000|700000|33000|35000
+Bucharest:University of Bucharest,Politehnica Bucharest
+Cluj-Napoca*0.85:Babes-Bolyai University,Technical University of Cluj-Napoca
+#gr|Greece|🇬🇷|105000|12000|5-7 yrs|400000|900000|45000|45000
+Athens:National Technical University of Athens,University of Athens
+Thessaloniki*0.8:Aristotle University of Thessaloniki
+#mt|Malta|🇲🇹|110000|8000|5 yrs|1000000|1500000|50000|65000
+Msida:University of Malta
+#cy|Cyprus|🇨🇾|110000|10000|7 yrs|900000|1300000|45000|50000
+Nicosia:University of Cyprus,+University of Nicosia
+Limassol*1.0:Cyprus University of Technology
+#tr|Turkey|🇹🇷|90000|9000|5+ yrs|300000|900000|35000|40000
+Istanbul*1.2:Istanbul Technical University,Bogazici University,+Koc University^1.6
+Ankara*0.8:Middle East Technical University,Hacettepe University
+Izmir*0.8:Izmir Institute of Technology
+#ru|Russia|🇷🇺|110000|10000|3-5 yrs (check current rules and sanctions)|350000|600000|35000|40000
+Moscow*1.2:Lomonosov Moscow State University,Bauman Moscow State Technical University
+Saint Petersburg:Saint Petersburg State University,ITMO University
+#jp|Japan|🇯🇵|75000|4000|5-10 yrs (faster via points system)|450000|900000|65000|55000
+Tokyo*1.4:University of Tokyo^1.1,Tokyo Institute of Technology,+Waseda University,+Keio University
+Osaka*0.95:Osaka University
+Kyoto:Kyoto University,+Ritsumeikan University
+Fukuoka*0.85:Kyushu University
+#kr|South Korea|🇰🇷|75000|5000|5 yrs|700000|1500000|55000|55000
+Seoul*1.3:Seoul National University,+Yonsei University^1.1,+Korea University
+Daejeon*0.8:KAIST
+Busan*0.85:Pusan National University
+#cn|China|🇨🇳|70000|8000|Very rare, 10+ yrs|420000|600000|40000|40000
+Beijing*1.3:Tsinghua University^1.3,Peking University^1.3,Beihang University
+Shanghai*1.3:Fudan University,Shanghai Jiao Tong University
+Hangzhou:Zhejiang University
+Wuhan*0.8:Wuhan University,Huazhong University of Science and Technology
+#tw|Taiwan|🇹🇼|75000|4000|5 yrs|450000|650000|42000|40000
+Taipei*1.1:National Taiwan University,National Taiwan University of Science and Technology
+Hsinchu*0.9:National Tsing Hua University,National Yang Ming Chiao Tung University
+#hk|Hong Kong|🇭🇰|70000|6000|7 yrs|1500000|1400000|85000|110000
+Hong Kong:University of Hong Kong,Chinese University of Hong Kong,HKUST
+#sg|Singapore|🇸🇬|80000|12000|Competitive, 2+ yrs work then PR application|3000000|1800000|78000|95000
+Singapore:NUS^1.1,Nanyang Technological University,+Singapore Management University
+#my|Malaysia|🇲🇾|50000|25000|Hard; MM2H long-stay option instead|900000|800000|28000|25000
+Kuala Lumpur*1.1:University of Malaya,+Taylor's University,+Sunway University
+Penang*0.85:Universiti Sains Malaysia
+#th|Thailand|🇹🇭|50000|6000|Hard, 3+ yrs with quota|450000|700000|25000|22000
+Bangkok:Chulalongkorn University,Mahidol University,+Assumption University
+Chiang Mai*0.75:Chiang Mai University
+#id|Indonesia|🇮🇩|60000|5000|5+ yrs|300000|500000|22000|18000
+Jakarta:University of Indonesia,+Binus University
+Bandung*0.8:Institut Teknologi Bandung
+Yogyakarta*0.7:Gadjah Mada University
+#in|India|🇮🇳|18000|3000|Very restricted, no regular PR|250000|500000|25000|20000
+Delhi*1.1:IIT Delhi,Jawaharlal Nehru University
+Bengaluru*1.1:Indian Institute of Science,+Christ University
+Mumbai*1.2:IIT Bombay,+NMIMS
+Kolkata*0.8:Jadavpur University,University of Calcutta
+#ae|United Arab Emirates|🇦🇪|50000|15000|Golden visa possible (10 yrs)|1800000|1600000|60000|85000
+Dubai*1.2:+Heriot-Watt University Dubai,+Middlesex University Dubai,+BITS Pilani Dubai
+Abu Dhabi:Khalifa University
+Sharjah*0.9:University of Sharjah,+American University of Sharjah
+#sa|Saudi Arabia|🇸🇦|45000|25000|Premium Residency by application|200000|1000000|40000|40000
+Riyadh:King Saud University,+Alfaisal University
+Jeddah*0.9:King Abdulaziz University
+Dhahran*0.9:King Fahd University of Petroleum and Minerals
+#qa|Qatar|🇶🇦|50000|10000|Limited, special cases only|1200000|2000000|60000|75000
+Doha:Qatar University,+Carnegie Mellon University Qatar^1.5,+Hamad Bin Khalifa University
+#kz|Kazakhstan|🇰🇿|70000|5000|5 yrs|500000|700000|28000|25000
+Astana:Nazarbayev University^1.5,L.N. Gumilyov Eurasian National University
+Almaty*0.9:Al-Farabi Kazakh National University
+#ge|Georgia|🇬🇪|70000|3000|5 yrs|500000|700000|28000|25000
+Tbilisi:Tbilisi State University,+Free University of Tbilisi
+Batumi*0.8:Batumi Shota Rustaveli State University
+#za|South Africa|🇿🇦|140000|12000|5 yrs|1100000|900000|38000|40000
+Cape Town*1.1:University of Cape Town^1.2
+Stellenbosch*0.9:Stellenbosch University
+Johannesburg:University of the Witwatersrand,University of Johannesburg
+#eg|Egypt|🇪🇬|65000|8000|Hard, long-term only|300000|900000|22000|20000
+Cairo:Cairo University,+American University in Cairo^1.8
+Alexandria*0.8:Alexandria University
+#br|Brazil|🇧🇷|165000|3000|~4 yrs|40000|700000|38000|35000
+São Paulo*1.1:University of São Paulo,+FGV
+Campinas*0.85:UNICAMP
+#vn|Vietnam|🇻🇳|55000|3000|Very restricted|400000|700000|24000|20000
+Hanoi:Hanoi University of Science and Technology,Vietnam National University Hanoi
+Ho Chi Minh City*1.05:Vietnam National University HCMC,+RMIT University Vietnam^1.6
+#lu|Luxembourg|🇱🇺|115000|25000|5 yrs|700000|1500000|85000|120000
+Esch-sur-Alzette:University of Luxembourg
+#sk|Slovakia|🇸🇰|105000|12000|5 yrs|500000|800000|36000|38000
+Bratislava:Comenius University,Slovak University of Technology
+Kosice*0.8:Technical University of Kosice
+#si|Slovenia|🇸🇮|105000|12000|5 yrs|500000|900000|42000|42000
+Ljubljana:University of Ljubljana
+Maribor*0.85:University of Maribor
